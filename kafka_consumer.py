@@ -1,5 +1,5 @@
 from kafka import KafkaConsumer
-consumer = KafkaConsumer('input')
+consumer = KafkaConsumer('input') #consumer listening to a certain topic
 
 
 # Function to check if the number is prime or not
